@@ -1,8 +1,8 @@
-A=int(input())
-B=int(input())
-C=int(input())
-D=int(input())
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
 
-diff=(A * B - C * D)
+diff=(a * b - c * d)
 
 print(f"Diff= {diff}")
